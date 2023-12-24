@@ -410,8 +410,6 @@ p {
 
 #about .about {
 	background-image: url(./img/hero-bg.png);
-
-	
 	background: linear-gradient(175deg, #ea00ff, #00eeff);
   color: white; 
   text-align: center;
